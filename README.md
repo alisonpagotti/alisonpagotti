@@ -3,7 +3,7 @@
 ##
 
 <div>
-  <a href="[https://github.com/alisonpagotti](https://github.com/alisonpagotti)">
+  <a href="https://github.com/alisonpagotti">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alisonpagotti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisonpagotti&layout=compact&langs_count=20&theme=dark"/>
 </div>
